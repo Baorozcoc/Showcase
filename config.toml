@@ -2,6 +2,7 @@ baseURL = "https://baorozcoc.github.io/showcase"
 languageCode = "en-us"
 title = "Showcase Template"
 theme = 'book'
+publishDir = "docs"
 
 # Book configuration
 disablePathToLower = true

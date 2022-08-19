@@ -284,7 +284,6 @@ In addition to this, there are several empty partials you can override to easily
 
 | File                     | Description                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------- |
-| `static/favicon.png`     | Override default favicon                                                              |
 | `assets/_custom.scss`    | Customise or override scss styles                                                     |
 | `assets/_variables.scss` | Override default SCSS variables                                                       |
 | `assets/_fonts.scss`     | Replace default font with custom fonts (e.g. local files or remote like google fonts) |
